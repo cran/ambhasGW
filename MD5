@@ -1,0 +1,12 @@
+abba00465fe4c44c4800bf565318cd83 *DESCRIPTION
+007bcc74771c1e62fcf1b41d7a6a0b8e *NAMESPACE
+9fb33aed76fa07b5b177a00bf57a30cb *R/create_inputs.R
+fd5a1794684e28d9b5d24d70da115903 *R/horizontal.R
+cd79cf5d599980e362862c86d22e24cf *R/main.R
+d98045192f4cebfde774c1197f8d642d *R/parameter_definitions.R
+2c989255afbd4d34c67fc43e1c9f6b9e *R/vertical.R
+1efee85158890cce5e5e30120d0fe06e *man/ambhasGW.Rd
+d503cedb3dc5cb9ba571d04678791d88 *man/create_inputs.Rd
+7e6eb49176134a42e861863291b6213a *man/parameter_definition.Rd
+afb9e797ea66ea6cc3d76f833521e40c *man/update_horizontally.Rd
+3a4a342c423da8c92ca201128b52497b *man/update_vertically.Rd
