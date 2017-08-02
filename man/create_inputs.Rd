@@ -17,7 +17,7 @@ Creates dummy data and corresponding yml file to run the model.
 
 
 # Creates input data and yml file
-create_inputs('~')
+create_inputs(tempdir())
 
 
 }

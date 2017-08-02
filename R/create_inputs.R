@@ -8,7 +8,7 @@
 #' 
 #' 
 #' # Creates input data and yml file
-#' create_inputs('~')
+#' create_inputs(tempdir())
 #' 
 #' 
 #' @importFrom stats runif

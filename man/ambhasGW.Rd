@@ -17,7 +17,7 @@ in raster format
 
 # Create necessary input file to make dummy run
 # Dummy directory to run
-dummy.dir <- '~'
+dummy.dir <- tempdir()
 
 # Make dummy run
 create_inputs(dummy.dir)

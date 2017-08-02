@@ -1,0 +1,5 @@
+ambhasGW v0.0.2
+==============
+  
+  Changes:
+  * Changes default location of dummy.dir to tempdir()
